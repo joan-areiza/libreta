@@ -1,0 +1,34 @@
+----------- * ----------- * ----------- * -----------
+            LA ESCUELITA DE DOÑA RITA
+----------- * ----------- * ----------- * -----------
+Grado: 11B Director de grupo: Roberto Gutierre<
+Datos del estudiante
+Nombres:  Apellidos: 
+··········································
+Registro: 1
+Materia: Matemáticas
+Nota 1: 2.5
+30 % nota 1: 0.75
+Nota 2: 3.5
+30 % nota 2: 1.05
+Nota 3: 2.3
+40 % nota 3: 0.9199999999999999
+Definitiva: 2.7199999999999998
+Mensaje por materia: Habilita
+........................................
+··········································
+Registro: 2
+Materia: Ciencias sociales
+Nota 1: 2.6
+30 % nota 1: 0.78
+Nota 2: 5.0
+30 % nota 2: 1.5
+Nota 3: 1.8
+40 % nota 3: 0.7200000000000001
+Definitiva: 3.0000000000000004
+Mensaje por materia: Aprueba
+........................................
+----------- * ----------- * ----------- * -----------
+Total materias perdidas: 1
+Mensaje definitivo: Pierde el año lectivo, puede presentar recuperación.
+----------- * ----------- * ----------- * -----------

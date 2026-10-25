@@ -1,0 +1,58 @@
+----------- * ----------- * ----------- * -----------
+            LA ESCUELITA DE DOÑA RITA
+----------- * ----------- * ----------- * -----------
+Grado: 8A Director de grupo: Gustavo Vera
+Datos del estudiante
+Nombres: Pedro Apellidos: Perez
+··········································
+Registro: 1
+Materia: Matemáticas
+Nota 1: 3.5
+30 % nota 1: 1.05
+Nota 2: 2.1
+30 % nota 2: 0.63
+Nota 3: 4.2
+40 % nota 3: 1.6800000000000002
+Definitiva: 3.3600000000000003
+Mensaje por materia: Aprueba
+........................................
+··········································
+Registro: 2
+Materia: Biología
+Nota 1: 1.2
+30 % nota 1: 0.36
+Nota 2: 3.2
+30 % nota 2: 0.96
+Nota 3: 1.4
+40 % nota 3: 0.5599999999999999
+Definitiva: 1.88
+Mensaje por materia: Habilita
+........................................
+··········································
+Registro: 3
+Materia: Música
+Nota 1: 1.1
+30 % nota 1: 0.33
+Nota 2: 2.13
+30 % nota 2: 0.6389999999999999
+Nota 3: 3.4
+40 % nota 3: 1.36
+Definitiva: 2.3289999999999997
+Mensaje por materia: Habilita
+........................................
+··········································
+Registro: 4
+Materia: Física
+Nota 1: 2.1
+30 % nota 1: 0.63
+Nota 2: 3.2
+30 % nota 2: 0.96
+Nota 3: 0.5
+40 % nota 3: 0.2
+Definitiva: 1.7899999999999998
+Mensaje por materia: Habilita
+........................................
+----------- * ----------- * ----------- * -----------
+Total materias perdidas: 3
+Mensaje definitivo: Pierde definitivamente el año lectivo.
+----------- * ----------- * ----------- * -----------
